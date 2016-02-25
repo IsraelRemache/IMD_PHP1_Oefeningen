@@ -1,0 +1,29 @@
+body{
+    width:300px;
+    margin: 0px;
+}
+
+
+article {
+    display:flex;
+}
+div {
+
+    
+    padding: 2em;
+    text-align: center;
+}
+.rood{
+
+background-color: red;
+}
+
+.oranje{
+
+background-color: orange;
+}
+
+.groen{
+
+background-color: green;
+}
